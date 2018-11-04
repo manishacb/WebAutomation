@@ -7,31 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="729f4369-24eb-429b-9a61-469efb907e12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/env/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/env/Constant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/info/seleniumcucumber/userStepDefintions/UserStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/info/seleniumcucumber/userStepDefintions/UserStepDefinitions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/locators/LoginLocators.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/locators/LoginLocators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/locators/SearchLocators.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/locators/SearchLocators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/pageObjects/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/pageObjects/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/pageObjects/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/pageObjects/SearchPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/env.RunCukeTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/env.RunCukeTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/env.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/env.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/Login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/features/Search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/Search.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-env.RunCukeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-env.RunCukeTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/env/DriverUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/env/DriverUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/info/seleniumcucumber/userStepDefintions/UserStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/info/seleniumcucumber/userStepDefintions/UserStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +25,7 @@
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="2" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
@@ -63,7 +39,7 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -104,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/Login.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="34" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="51" />
+              <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -208,7 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -285,11 +261,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541160390692" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541317392042" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -332,7 +308,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28744328" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29198185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -584,7 +560,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/Login.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="51" />
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="51" />
         </state>
       </provider>
     </entry>
